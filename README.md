@@ -17,3 +17,9 @@ Dashboard
 Settings
 
 
+Tech Stack:
+Vaninlla JS
+HTML
+CSS
+MongoDB
+
