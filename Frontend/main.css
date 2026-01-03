@@ -1,0 +1,9 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom, gray, darkgray);
+    height: 100vh;
+    font-size: 20px;
+}
