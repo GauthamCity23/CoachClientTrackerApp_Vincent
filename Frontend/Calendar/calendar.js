@@ -33,6 +33,11 @@ function generateTable() {
 
     for (let day = 1; day <= days; day++) {
     const cell = document.createElement("td");
+    if (day % 2 == 0) {
+        cell.classList.add("td2")
+    } else {
+        cell.classList.add("td1")
+    }
     cell.textContent = day;
     row.appendChild(cell);
 

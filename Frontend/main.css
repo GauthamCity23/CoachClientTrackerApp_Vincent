@@ -7,3 +7,14 @@ body {
     height: 100vh;
     font-size: 20px;
 }
+
+header {
+    position: fixed;
+    top: 0;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 40px;
+}
